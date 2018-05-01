@@ -4,7 +4,7 @@ This is a single page website serving the below purposes:
 1. To apply my knowledge in website development obtained through self learning prior to attending a coding bootcamp
 2. To briefly introduce myself and share my interest in photography
 
-Preview link: https://cdn.rawgit.com/khchick/about_me/a7f19376/index.html
+Preview link: https://cdn.rawgit.com/khchick/about_me/c9d6582c/index.html
 
 ## Content
 The site consists of the following parts and functionalities (from top to bottom):
